@@ -27,8 +27,10 @@ from `trucka.bmp` to `truckb.bmp`.
 
 ## Method
 
-- **Reference image:** ![trucka.bmp](data/trucka.bmp)
-- **Target image:** ![truckb.bmp](data/truckb.bmp)
+### Reference image: 
+![trucka.bmp](data/trucka.bmp)
+### Target image: 
+![truckb.bmp](data/truckb.bmp)
 - **Block sizes:**
   - 9 × 9
   - 11 × 11
