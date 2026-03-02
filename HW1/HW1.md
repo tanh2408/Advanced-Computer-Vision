@@ -8,7 +8,6 @@
 cd HW
 jupyter notebook Image_Matching.ipynb
 ```
-````
 
 Run all cells to generate motion vector visualizations.
 
