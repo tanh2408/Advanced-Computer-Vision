@@ -92,8 +92,3 @@ from `trucka.bmp` to `truckb.bmp`.
 - NumPy
 - Matplotlib
 - Jupyter Notebook
-
-git add README.md
-git commit -m "Add HW1 README with results"
-git push
-````
