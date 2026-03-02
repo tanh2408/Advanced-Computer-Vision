@@ -93,15 +93,6 @@ from `trucka.bmp` to `truckb.bmp`.
 - Matplotlib
 - Jupyter Notebook
 
-````
-
----
-
-### How to use it
-1. Create a file named **`README.md`** in your `HW/` folder
-2. Paste everything above
-3. Commit & push:
-```bash
 git add README.md
 git commit -m "Add HW1 README with results"
 git push
