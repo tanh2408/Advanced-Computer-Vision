@@ -1,4 +1,3 @@
-````markdown
 # Homework 1 – Image Matching (Detecting Motion Vectors)
 
 ---
